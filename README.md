@@ -16,3 +16,10 @@ Here are some cool links that are worth looking at:
 8.  https://guides.library.duke.edu/datavis/vis_types
 9.  https://datavizcatalogue.com/methods/gantt_chart.html
 10. https://visme.co/blog/types-of-graphs/
+
+
+
+
+Then there is the Gartners Magic Quadrant for Analytics and BI tools.
+
+
