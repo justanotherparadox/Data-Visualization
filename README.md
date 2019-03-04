@@ -26,9 +26,11 @@ Data visualization can not only be used to pictorially represent data but also t
 to the audience in the best way possible. 
 
 They say a visualization should be catchy and give a feeling as one possesses photographic memory..........
+
 Checkout this link:
 
 https://xkcd.com/936/
+
 https://en.wikipedia.org/wiki/Xkcd
 
 
