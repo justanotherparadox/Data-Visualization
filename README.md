@@ -27,10 +27,9 @@ to the audience in the best way possible.
 
 They say a visualization should be catchy and give a feeling as one possesses photographic memory..........
 
-Checkout this link:
+Checkout these links:
 
-https://xkcd.com/936/
-
-https://en.wikipedia.org/wiki/Xkcd
+1. https://xkcd.com/936/
+2. https://en.wikipedia.org/wiki/Xkcd
 
 
