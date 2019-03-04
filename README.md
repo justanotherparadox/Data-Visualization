@@ -22,4 +22,13 @@ Here are some cool links that are worth looking at:
 
 Then there is the Gartners Magic Quadrant for Analytics and BI tools.
 
+Data visualization can not only be used to pictorially represent data but also to capture the idea and convey the message 
+to the audience in the best way possible. 
+
+They say a visualization should be catchy and give a feeling as one possesses photographic memory..........
+Checkout this link:
+
+https://xkcd.com/936/
+https://en.wikipedia.org/wiki/Xkcd
+
 
